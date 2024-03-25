@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="66586e3f-c6db-495b-92ea-664c69a6bad8" name="Changes" comment="05. Java Functional Interfaces, Consumer and Predicate">
+    <list default="true" id="66586e3f-c6db-495b-92ea-664c69a6bad8" name="Changes" comment="06. Java Functional Interfaces, Function and Supplier">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/iffat/mini_lambda_challenge/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/iffat/lambda_expression/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/iffat/lambda_expression/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,8 +16,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -48,7 +48,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.org.iffat.lambda_expression.Main">
+  <component name="RunManager" selected="Application.org.iffat.mini_lambda_challenge.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.iffat.lambda_intro.Main" />
       <module name="java-lambda" />
@@ -75,8 +75,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="org.iffat.mini_lambda_challenge.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.iffat.mini_lambda_challenge.Main" />
+      <module name="java-lambda" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.iffat.mini_lambda_challenge.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.org.iffat.mini_lambda_challenge.Main" />
         <item itemvalue="Application.org.iffat.lambda_expression.Main" />
         <item itemvalue="Application.Main" />
       </list>
@@ -91,7 +105,7 @@
       <option name="presentableId" value="Default" />
       <updated>1711350053177</updated>
       <workItem from="1711350054174" duration="6274000" />
-      <workItem from="1711373169749" duration="3346000" />
+      <workItem from="1711373169749" duration="5252000" />
     </task>
     <task id="LOCAL-00001" summary="01. Starter Project">
       <option name="closed" value="true" />
@@ -133,7 +147,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711374191236</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="06. Java Functional Interfaces, Function and Supplier">
+      <option name="closed" value="true" />
+      <created>1711381283263</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1711381283263</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -145,6 +167,7 @@
     <MESSAGE value="03. Lambda expression, syntax, and additional examples" />
     <MESSAGE value="04. Lambda expression continued" />
     <MESSAGE value="05. Java Functional Interfaces, Consumer and Predicate" />
-    <option name="LAST_COMMIT_MESSAGE" value="05. Java Functional Interfaces, Consumer and Predicate" />
+    <MESSAGE value="06. Java Functional Interfaces, Function and Supplier" />
+    <option name="LAST_COMMIT_MESSAGE" value="06. Java Functional Interfaces, Function and Supplier" />
   </component>
 </project>
