@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="66586e3f-c6db-495b-92ea-664c69a6bad8" name="Changes" comment="04. Lambda expression continued">
+    <list default="true" id="66586e3f-c6db-495b-92ea-664c69a6bad8" name="Changes" comment="05. Java Functional Interfaces, Consumer and Predicate">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/iffat/lambda_expression/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/iffat/lambda_expression/Main.java" afterDir="false" />
     </list>
@@ -91,7 +91,7 @@
       <option name="presentableId" value="Default" />
       <updated>1711350053177</updated>
       <workItem from="1711350054174" duration="6274000" />
-      <workItem from="1711373169749" duration="699000" />
+      <workItem from="1711373169749" duration="3346000" />
     </task>
     <task id="LOCAL-00001" summary="01. Starter Project">
       <option name="closed" value="true" />
@@ -125,7 +125,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711356262856</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="05. Java Functional Interfaces, Consumer and Predicate">
+      <option name="closed" value="true" />
+      <created>1711374191236</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1711374191236</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -136,6 +144,7 @@
     <MESSAGE value="02. Introduction to the lambda Expression and Functional" />
     <MESSAGE value="03. Lambda expression, syntax, and additional examples" />
     <MESSAGE value="04. Lambda expression continued" />
-    <option name="LAST_COMMIT_MESSAGE" value="04. Lambda expression continued" />
+    <MESSAGE value="05. Java Functional Interfaces, Consumer and Predicate" />
+    <option name="LAST_COMMIT_MESSAGE" value="05. Java Functional Interfaces, Consumer and Predicate" />
   </component>
 </project>
