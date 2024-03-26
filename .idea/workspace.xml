@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="66586e3f-c6db-495b-92ea-664c69a6bad8" name="Changes" comment="11. Method Reference Challenge">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/iffat/chaining_lambdas/Main.java" afterDir="false" />
+    <list default="true" id="66586e3f-c6db-495b-92ea-664c69a6bad8" name="Changes" comment="12. Convenience Methods on Functional Interfaces ( Chaining Lambda)">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/iffat/chaining_lambdas/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/iffat/chaining_lambdas/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -135,7 +135,7 @@
       <workItem from="1711350054174" duration="6274000" />
       <workItem from="1711373169749" duration="5529000" />
       <workItem from="1711407401331" duration="10458000" />
-      <workItem from="1711440669925" duration="648000" />
+      <workItem from="1711440669925" duration="1775000" />
     </task>
     <task id="LOCAL-00001" summary="01. Starter Project">
       <option name="closed" value="true" />
@@ -225,7 +225,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711417656213</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="12. Convenience Methods on Functional Interfaces ( Chaining Lambda)">
+      <option name="closed" value="true" />
+      <created>1711441551496</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1711441551496</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -243,6 +251,7 @@
     <MESSAGE value="09. What's a method reference" />
     <MESSAGE value="10. The most confusing of the method reference" />
     <MESSAGE value="11. Method Reference Challenge" />
-    <option name="LAST_COMMIT_MESSAGE" value="11. Method Reference Challenge" />
+    <MESSAGE value="12. Convenience Methods on Functional Interfaces ( Chaining Lambda)" />
+    <option name="LAST_COMMIT_MESSAGE" value="12. Convenience Methods on Functional Interfaces ( Chaining Lambda)" />
   </component>
 </project>
