@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="66586e3f-c6db-495b-92ea-664c69a6bad8" name="Changes" comment="10. The most confusing of the method reference">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/iffat/method_reference_challenge/Main.java" afterDir="false" />
+    <list default="true" id="66586e3f-c6db-495b-92ea-664c69a6bad8" name="Changes" comment="11. Method Reference Challenge">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/iffat/chaining_lambdas/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,13 +48,13 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.org.iffat.method_reference_challenge.Main">
-    <configuration name="org.iffat.lambda_expression.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.iffat.lambda_expression.Main" />
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.iffat.chaining_lambdas.Main" />
       <module name="java-lambda" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.iffat.lambda_expression.*" />
+          <option name="PATTERN" value="org.iffat.chaining_lambdas.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,11 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.org.iffat.method_reference_challenge.Main" />
         <item itemvalue="Application.org.iffat.method_references.Main" />
         <item itemvalue="Application.org.iffat.lambda_expression_challenge.Main" />
         <item itemvalue="Application.org.iffat.mini_lambda_challenge.Main" />
-        <item itemvalue="Application.org.iffat.lambda_expression.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -134,7 +134,8 @@
       <updated>1711350053177</updated>
       <workItem from="1711350054174" duration="6274000" />
       <workItem from="1711373169749" duration="5529000" />
-      <workItem from="1711407401331" duration="8433000" />
+      <workItem from="1711407401331" duration="10458000" />
+      <workItem from="1711440669925" duration="648000" />
     </task>
     <task id="LOCAL-00001" summary="01. Starter Project">
       <option name="closed" value="true" />
@@ -216,7 +217,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711415117645</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="11. Method Reference Challenge">
+      <option name="closed" value="true" />
+      <created>1711417656213</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1711417656213</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -233,6 +242,7 @@
     <MESSAGE value="08. Lambda Expression Challenge" />
     <MESSAGE value="09. What's a method reference" />
     <MESSAGE value="10. The most confusing of the method reference" />
-    <option name="LAST_COMMIT_MESSAGE" value="10. The most confusing of the method reference" />
+    <MESSAGE value="11. Method Reference Challenge" />
+    <option name="LAST_COMMIT_MESSAGE" value="11. Method Reference Challenge" />
   </component>
 </project>
