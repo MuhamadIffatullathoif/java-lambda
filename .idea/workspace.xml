@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="66586e3f-c6db-495b-92ea-664c69a6bad8" name="Changes" comment="08. Lambda Expression Challenge">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/iffat/method_references/Main.java" afterDir="false" />
+    <list default="true" id="66586e3f-c6db-495b-92ea-664c69a6bad8" name="Changes" comment="09. What's a method reference">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/iffat/method_references/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/iffat/method_references/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -134,7 +134,7 @@
       <updated>1711350053177</updated>
       <workItem from="1711350054174" duration="6274000" />
       <workItem from="1711373169749" duration="5529000" />
-      <workItem from="1711407401331" duration="3677000" />
+      <workItem from="1711407401331" duration="6267000" />
     </task>
     <task id="LOCAL-00001" summary="01. Starter Project">
       <option name="closed" value="true" />
@@ -200,7 +200,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711409830605</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="09. What's a method reference">
+      <option name="closed" value="true" />
+      <created>1711412181149</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1711412181149</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -215,6 +223,7 @@
     <MESSAGE value="06. Java Functional Interfaces, Function and Supplier" />
     <MESSAGE value="07. Lambda Mini Challenge" />
     <MESSAGE value="08. Lambda Expression Challenge" />
-    <option name="LAST_COMMIT_MESSAGE" value="08. Lambda Expression Challenge" />
+    <MESSAGE value="09. What's a method reference" />
+    <option name="LAST_COMMIT_MESSAGE" value="09. What's a method reference" />
   </component>
 </project>
